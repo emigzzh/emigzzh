@@ -1,10 +1,6 @@
+![image alt](https://github.com/emigzzh/emigzzh/blob/main/SnowyMountains.png)
 
-
-# 👋 Hi, there
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emigzzh&layout=compact&theme=dracula" alt="Top Langs" />
-</div>
-
+# 👋 Welcome to my profile, I'm @emigzzh
 ```java
 local emigzzh = {
     name = "Emilio González",
@@ -20,9 +16,11 @@ local emigzzh = {
     funFact = "I could write code and let it compile first try, but I usually forget a ; or ,"
 }
 ```
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+# 📈 Stats
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emigzzh&layout=compact&theme=dracula" alt="Top Langs" />
+</div>
 
 <!---
 emigzzh/emigzzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
